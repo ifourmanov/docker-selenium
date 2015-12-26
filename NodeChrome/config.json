@@ -7,7 +7,7 @@
     },
     {
       "browserName": "chrome",
-      "maxInstances": 1,
+      "maxInstances": 10,
       "seleniumProtocol": "WebDriver"
     }
   ],
